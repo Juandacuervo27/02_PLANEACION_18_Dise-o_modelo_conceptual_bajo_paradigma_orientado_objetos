@@ -1,0 +1,2 @@
+# 02_PLANEACION_18_Dise-o_modelo_conceptual_bajo_paradigma_orientado_objetos
+Guía 18 Belman
